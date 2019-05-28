@@ -406,6 +406,7 @@ def parseFile(filename):
         result = (commands[:], deepcopy(symbols))
         commands = []
         symbols = {}
+        print(result)
         return result
     except IOError:
         return ()
