@@ -1,0 +1,60 @@
+frames 30
+basename epic
+vary rot 0 30 -1 1
+
+push
+move 250 250 0
+push
+move 0 135 0
+sphere 0 0 0 70
+push
+rotate x 90
+torus 0 0 0 2 130
+pop
+push
+rotate z 30 rot
+move 0 -76 0
+sphere 0 0 0 3
+pop
+push
+rotate z 25 rot
+move 0 -88 0
+sphere 0 0 0 5
+pop
+push
+rotate z 35 rot
+move 0 -100 0
+sphere 0 0 0 5
+rotate z 90 rot
+sphere -4 -8 0 2
+pop
+push
+rotate z 50 rot
+move 0 -116 0
+sphere 0 0 0 4
+pop
+push
+rotate z 20 rot
+move 0 -200 0
+sphere 0 0 0 13
+pop
+push
+rotate z 10 rot
+move 0 -240 0
+sphere 0 0 0 11
+pop
+push
+rotate z 15 rot
+move 0 -270 0
+sphere 0 0 0 8
+pop
+push
+rotate z 18 rot
+move 0 -318 0
+sphere 0 0 0 7
+pop
+push
+rotate z 33 rot
+move 0 -356 0
+sphere 0 0 0 2
+pop
